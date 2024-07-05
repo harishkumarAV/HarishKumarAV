@@ -6,11 +6,6 @@ Developer , Competitve Coder.
 
 I'm a passionate full-stack developer with extensive experience in building dynamic and responsive web applications. I have successfully developed over 10 projects utilizing a diverse range of technologies, including React, Spring Boot, REST API ,Java, Hedera, JWT, Redux ,Microservices ,SQL , Postman , AWS ,etc.. My proficiency in both front-end and back-end development allows me to create seamless and efficient user experiences. As a competitive coder, I've solved over 1,000 problems on various platforms, constantly honing my algorithmic and problem-solving skills. I thrive in challenging environments and enjoy pushing the boundaries of my knowledge. In my free time, you can find me tackling problems on LeetCode and participating in challenges. Feel free to explore my repositories and connect with me on GitHub. Let's collaborate and build something amazing!
 
-*  I'm based in TamilNadu,India.
-*  You can contact me at [avhk2003@gmail.com](mailto:avhk2003@gmail.com)
-*  I'm currently working on [Jollify - A React based Freelance project.](http://birthday-neon-xi.vercel.app/)
-*  I'm learning Blockchain , Three.js and advanced Front end frameworks.
-*  I'm open to collaborating on Intresting projects and Coding contests.
 
 ### Skills
 
